@@ -1,4 +1,3 @@
-# HTML_LH
 # HTML_LearningHub
 
 HTML 공부한 내용을 HTML로 작성해서 정리한 파일입니다.
